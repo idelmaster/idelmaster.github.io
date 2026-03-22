@@ -5,4 +5,4 @@ timezone: Asia/Shanghai
 theme: minima
 author: 我
 url: "https://idelmaster.github.io"
-baseurl: "/idlemaster"
+baseurl: ""
