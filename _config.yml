@@ -1,0 +1,8 @@
+title: 我的博客
+description: 记录想法与笔记
+lang: zh-CN
+timezone: Asia/Shanghai
+theme: minima
+author: 我
+url: "https://idelmaster.github.io"
+baseurl: "/idlemaster"
